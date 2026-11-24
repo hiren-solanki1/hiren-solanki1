@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Hiren Solanki 👋
 
-<!--
-**hiren-solanki1/hiren-solanki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer with 4+ years of experience in Node.js, NestJS, Angular and TypeScript. I work on backend systems, APIs, microservices and AI voice agents, based in Rajkot, India.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 High-volume WhatsApp messaging: a campaign engine that sends 50 lakh+ messages a day without data loss
+
+🧩 Moving a monolith to microservices with NestJS, RabbitMQ and Redis
+
+📦 Nx monorepos and making codebases ready for AI coding agents (Claude Code, Codex)
+
+🎙️ AI voice agents with LiveKit and SIP
+
+⚙️ Deployments with Docker, Kubernetes and KEDA
+
+## Tech stack
+
+**Languages:** TypeScript, JavaScript, Python
+
+**Backend:** Node.js, NestJS, Express.js, REST APIs, Microservices
+
+**Frontend:** Angular, HTML, CSS, Tailwind CSS
+
+**Databases and queues:** MongoDB, PostgreSQL, Redis, RabbitMQ
+
+**Cloud and DevOps:** AWS, Docker, Kubernetes, KEDA, Nx
+
+**Data:** Apache Airflow, Pandas, ETL pipelines, web scraping
+
+## Links
+
+🌐 Portfolio: https://hirensolanki.vercel.app/
