@@ -27,7 +27,3 @@ Full-stack engineer with 4+ years of experience in Node.js, NestJS, Angular and 
 **Cloud and DevOps:** AWS, Docker, Kubernetes, KEDA, Nx
 
 **Data:** Apache Airflow, Pandas, ETL pipelines, web scraping
-
-## Links
-
-🌐 Portfolio: https://hirensolanki.vercel.app/
